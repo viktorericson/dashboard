@@ -64,6 +64,11 @@ const colors = {
     focus: "#67bb6a",
   },
 
+  blue: {
+    main: "#63B2F7",
+    focus: "#46A6FB",
+  },
+
   warning: {
     main: "#fb8c00",
     focus: "#fc9d26",
@@ -135,6 +140,10 @@ const colors = {
     dark: {
       main: "#42424a",
       state: "#191919",
+    },
+    blue: {
+      main: "#63B2F7",
+      state: "#D4E6F6",
     },
   },
 
@@ -240,6 +249,10 @@ const colors = {
       background: "#8097bf",
       text: "#1e2e4a",
     },
+    blue: {
+      main: "#63B2F7",
+      state: "#46A6FB",
+    },
   },
 
   coloredShadows: {
@@ -251,6 +264,7 @@ const colors = {
     error: "#f44336",
     light: "#adb5bd",
     dark: "#404040",
+    blue: "#63B2F7",
   },
 
   inputBorderColor: "#d2d6da",

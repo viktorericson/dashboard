@@ -25,6 +25,10 @@ const colors = {
     sidenav: "#1f283e",
     card: "#202940",
   },
+  blue: {
+    main: "#63B2F7",
+    focus: "#46A6FB",
+  },
 
   text: {
     main: "#ffffffcc",
@@ -50,7 +54,10 @@ const colors = {
     main: "#e91e63",
     focus: "#e91e63",
   },
-
+  blue: {
+    main: "#63B2F7",
+    focus: "#46A6FB",
+  },
   secondary: {
     main: "#7b809a",
     focus: "#8f93a9",
@@ -102,6 +109,10 @@ const colors = {
     primary: {
       main: "#EC407A",
       state: "#D81B60",
+    },
+    blue: {
+      main: "#63B2F7",
+      state: "#46A6FB",
     },
 
     secondary: {
@@ -208,6 +219,10 @@ const colors = {
       text: "#cc084b",
     },
 
+    blue: {
+      main: "#63B2F7",
+      focus: "#46A6FB",
+    },
     secondary: {
       background: "#d7d9e1",
       text: "#6c757d",
